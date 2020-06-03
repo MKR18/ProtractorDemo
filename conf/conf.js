@@ -1,4 +1,4 @@
-var HtmlReporter = require('protractor-beautiful-reporter');
+var HtmlReporter = require('/usr/local/lib/node_modules/protractor/node_modules/protractor-beautiful-reporter');
 
 // An example configuration file.
 exports.config = {
